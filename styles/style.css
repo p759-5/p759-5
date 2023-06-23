@@ -1,0 +1,21 @@
+html {
+    background-color: #0C0C26;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #4583DA;
+    padding: 0 20px 20px 20px;
+    border: 3px solid black;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    padding: 20px 0;
+    color: #160E09;
+    text-shadow: 2px 2px 3px wheat;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
